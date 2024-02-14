@@ -1,5 +1,3 @@
-# Apollo Documentation
-
 Bem-vindo à documentação oficial do **Apollo**, um sistema abrangente projetado para otimizar operações, gerenciamento e análise em sua organização. O Apollo é construído com foco na eficiência, escalabilidade e facilidade de uso, oferecendo uma suite de ferramentas robustas para atender às suas necessidades empresariais.
 
 ## Características Principais
