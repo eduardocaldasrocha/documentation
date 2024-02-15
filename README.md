@@ -1,5 +1,4 @@
 # Documentação Apollo
-# Documentação Apollo
 
 Bem-vindo à documentação oficial da **Apollo**, uma empresa dedicada à inovação e à excelência em operações, gerenciamento e análise empresarial. Com um compromisso com a eficiência, a escalabilidade e a facilidade de uso, a Apollo oferece uma ampla gama de soluções e serviços projetados para atender às necessidades variadas de negócios em diferentes setores.
 Bem-vindo à documentação oficial da **Apollo**, uma empresa dedicada à inovação e à excelência em operações, gerenciamento e análise empresarial. Com um compromisso com a eficiência, a escalabilidade e a facilidade de uso, a Apollo oferece uma ampla gama de soluções e serviços projetados para atender às necessidades variadas de negócios em diferentes setores.
