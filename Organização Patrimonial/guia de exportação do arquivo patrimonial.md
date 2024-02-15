@@ -11,6 +11,7 @@ Definir os objetivos principais da exportação:
 - **Determinação do Valor de Mercado**: Avaliar e atualizar o valor de mercado dos ativos para refletir seu valor justo e atual.
 - **Integração com Sistemas da Apollo Gestão**: Garantir que os dados exportados sejam compatíveis com os sistemas da Apollo Gestão, permitindo uma integração eficiente e precisa.
 - **Migração de Dados**: Transferir os dados do sistema de origem para o sistema de destino de forma segura e precisa.
+- **Auditoria e Conformidade**: Assegurar que os dados exportados estejam em conformidade com as normas contábeis e regulamentações aplicáveis.
 
 ## Passo 2: Preparação dos Dados
 
